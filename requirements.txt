@@ -1,0 +1,18 @@
+# Core libraries
+numpy
+pandas
+
+# Plotting libraries
+matplotlib
+seaborn
+plotly
+
+# Scikit-learn modules
+scikit-learn
+
+# Statistical tests and utilities
+scipy
+statsmodels
+
+# Imbalanced learning
+imblearn
