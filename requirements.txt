@@ -7,12 +7,10 @@ matplotlib
 seaborn
 plotly
 
-# Scikit-learn modules
+# Machine learning libraries
 scikit-learn
+imbalanced-learn
 
 # Statistical tests and utilities
 scipy
 statsmodels
-
-# Imbalanced learning
-imblearn
